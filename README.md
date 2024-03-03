@@ -15,8 +15,7 @@ Repository to store code used for the analyses presented in "Defining the Regula
 9. scripts/Submit-Individual_Samples_scRNA-CellTypeAnnotation.sh
 10. scripts/Submit-Individual_Samples_scRNA-inferCNV_CancerCellDetection.sh
 11. scripts/get_SCSubtype_training_data.sh
-12. scripts/Submit-Individual_Samples_scRNA-SCSubtype_Classification.sh,
-scripts/Submit-Individual_CellLine_Samples_scRNA-SCSubtype_Classification.sh
+12. scripts/Submit-Individual_Samples_scRNA-SCSubtype_Classification.sh
 
 #### QC all scATAC data
 13. scripts/All_Samples_scATAC-QC_DoubletRemoval_Preprocessing.sh
