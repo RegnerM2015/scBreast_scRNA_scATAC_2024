@@ -69,7 +69,7 @@ Please visit the [wiki](https://github.com/RegnerM2015/scBreast_scRNA_scATAC_202
 ### Docker container to help replicate the computational environment:
 R scripts were run in a [Docker](https://www.docker.com/resources/what-container/) container executed with [Singularity](https://github.com/sylabs/singularity) in an HPC environment.
 
-To help users replicate our computational environment(s) (collection(s) of specific software packages and versions), we have uploaded the Docker image to DockerHub for public access: https://hub.docker.com/r/regnerm/scbreast_2023.
+To help users replicate our computational environment, we have uploaded the Docker image to DockerHub for public access: https://hub.docker.com/r/regnerm/scbreast_2023.
 
 To pull the latest version of the Docker image, you may run the following command: 
 ```
