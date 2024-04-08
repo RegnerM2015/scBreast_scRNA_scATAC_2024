@@ -16,18 +16,18 @@ Please visit the [wiki](https://github.com/RegnerM2015/scBreast_scRNA_scATAC_202
 2. scripts/copy_cellranger_outputs.sh
 3. scripts/find_versions.sh
 4. scripts/get_reference_data.sh
-5. scripts/Wu_etal_2021_BRCA_scRNA-CreateSeuratObjectWithCCA.sh
-6. scripts/Wu_etal_2021_BRCA_scRNA-CreateSeuratObjectWithOutCCA.sh
-7. scripts/Sumbit-Individual_Samples_scRNA-QC_DoubletRemoval_Preprocessing.sh
-8. scripts/Submit-Individual_Samples_scRNA-MultiKClustering.sh,
+5. scripts/Sumbit-Individual_Samples_scRNA-QC_DoubletRemoval_Preprocessing.sh
+6. scripts/Submit-Individual_Samples_scRNA-MultiKClustering.sh,
    
    scripts/Submit-Individual_Samples_scRNA-MultiKClustering_AlternateSeed.sh,
 
    scripts/Submit-Individual_Samples_scRNA-MultiKClustering_AlternateSeed_SecondAttempt.sh,
 
    scripts/Submit-Individual_Samples_scRNA-MultiKClustering_AlternateSeed_ThirdAttempt.sh
-9. scripts/Submit-Individual_Samples_scRNA-FindClusterMarkerGenes.sh
-10. scripts/Individual_Samples_scRNA-RemoveLowMappingRatePopulation_Reprocess_3FCDEL.sh
+7. scripts/Submit-Individual_Samples_scRNA-FindClusterMarkerGenes.sh
+8. scripts/Individual_Samples_scRNA-RemoveLowMappingRatePopulation_Reprocess_3FCDEL.sh
+9. scripts/Wu_etal_2021_BRCA_scRNA-CreateSeuratObjectWithCCA.sh
+10. scripts/Wu_etal_2021_BRCA_scRNA-CreateSeuratObjectWithOutCCA.sh
 11. scripts/Submit-Individual_Samples_scRNA-CellTypeAnnotation.sh
 12. scripts/Submit-Individual_Samples_scRNA-inferCNV_CancerCellDetection.sh
 13. scripts/get_SCSubtype_training_data.sh
