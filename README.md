@@ -1,5 +1,7 @@
 # scBreast_scRNA_scATAC_2024
-Repository to store code used for the analyses presented in "Defining the Regulatory Logic of Breast Cancer Using Single-Cell Epigenetic And Transcriptome Profiling"
+Repository to store code used for the analyses presented in "Defining the Regulatory Logic of Breast Cancer Using Single-Cell Epigenetic And Transcriptome Profiling". 
+
+bioRxiv preprint: https://www.biorxiv.org/content/10.1101/2024.06.13.598858v1 
 
 ### Data availability:
 Processed data will be made publicly available at GEO (https://www.ncbi.nlm.nih.gov/geo/) after publication. 
@@ -61,12 +63,13 @@ Please visit the [wiki](https://github.com/RegnerM2015/scBreast_scRNA_scATAC_202
 
 #### Generate visualizations and tabular data:
 31. scripts/Full_Cohort_Results.sh
-32. scripts/Basal_Cohort_Results.sh
-33. scripts/Luminal_Cohort_Results.sh
-34. scripts/Cell_Line_Cohort_Results.sh
-35. scripts/Table_1_S1.sh
-36. scripts/Supplemental_Tables-P2Gs.sh
-37. scripts/Supplemental_Tables-barcode_metadata.sh
+32. scripts/Basal_Cohort_Results-updates.sh
+33. scripts/Luminal_Cohort_Results-updates.sh
+34. scripts/DepMap_Analysis_Basal_Luminal-updates.sh
+35. scripts/Cell_Line_Cohort_Results.sh
+36. scripts/Table_1_S1.sh
+37. scripts/Supplemental_Tables-P2Gs.sh
+38. scripts/Supplemental_Tables-barcode_metadata.sh
 
 ### Docker container to help replicate the computational environment:
 R scripts were run in a [Docker](https://www.docker.com/resources/what-container/) container executed with [Singularity](https://github.com/sylabs/singularity) in an HPC environment.
