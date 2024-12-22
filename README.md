@@ -4,7 +4,7 @@ Repository to store code used for the analyses presented in "Defining the Regula
 bioRxiv preprint: https://www.biorxiv.org/content/10.1101/2024.06.13.598858v1 
 
 ### Data availability:
-Processed data will be made publicly available at GEO (https://www.ncbi.nlm.nih.gov/geo/) after publication. 
+Processed data will be available at GEO (https://www.ncbi.nlm.nih.gov/geo/). 
 
 Raw data will be available with controlled access at dbGaP (https://www.ncbi.nlm.nih.gov/gap/).
 
