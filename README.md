@@ -67,7 +67,7 @@ Please visit the [wiki](https://github.com/RegnerM2015/scBreast_scRNA_scATAC_202
 33. scripts/Luminal_Cohort_Results-updates-Revised-updated.sh
 34. scripts/Cell_Line_Cohort_Results-Revised.sh
 35. scripts/Table_1_S1.sh
-36. scripts/Supplemental_Tables-P2Gs.sh
+36. scripts/Supplemental_Tables-P2Gs-updated.sh
 37. scripts/Supplemental_Tables-barcode_metadata.sh
 
 ### Docker container to help replicate the computational environment:
