@@ -64,7 +64,7 @@ Please visit the [wiki](https://github.com/RegnerM2015/scBreast_scRNA_scATAC_202
 #### Generate visualizations and tabular data:
 31. scripts/Full_Cohort_Results-Revised.sh
 32. scripts/Basal_Cohort_Results-updates-Revised-updated.sh
-33. scripts/Luminal_Cohort_Results-updates.sh
+33. scripts/Luminal_Cohort_Results-updates-Revised-updated.sh
 34. scripts/DepMap_Analysis_Basal_Luminal-updates.sh
 35. scripts/Cell_Line_Cohort_Results.sh
 36. scripts/Table_1_S1.sh
