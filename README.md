@@ -65,11 +65,10 @@ Please visit the [wiki](https://github.com/RegnerM2015/scBreast_scRNA_scATAC_202
 31. scripts/Full_Cohort_Results-Revised.sh
 32. scripts/Basal_Cohort_Results-updates-Revised-updated.sh
 33. scripts/Luminal_Cohort_Results-updates-Revised-updated.sh
-34. scripts/DepMap_Analysis_Basal_Luminal-updates.sh
-35. scripts/Cell_Line_Cohort_Results.sh
-36. scripts/Table_1_S1.sh
-37. scripts/Supplemental_Tables-P2Gs.sh
-38. scripts/Supplemental_Tables-barcode_metadata.sh
+34. scripts/Cell_Line_Cohort_Results-Revised.sh
+35. scripts/Table_1_S1.sh
+36. scripts/Supplemental_Tables-P2Gs.sh
+37. scripts/Supplemental_Tables-barcode_metadata.sh
 
 ### Docker container to help replicate the computational environment:
 R scripts were run in a [Docker](https://www.docker.com/resources/what-container/) container executed with [Singularity](https://github.com/sylabs/singularity) in an HPC environment.
