@@ -1,7 +1,7 @@
 # scBreast_scRNA_scATAC_2024
 Repository to store code used for the analyses presented in "Defining the Regulatory Logic of Breast Cancer Using Single-Cell Epigenetic And Transcriptome Profiling". 
 
-Please cite our paper published in Cell Genomics:[]
+Please cite our paper published in Cell Genomics: https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00021-7
 
 ### Data availability:
 Processed data will be available at GEO (https://www.ncbi.nlm.nih.gov/geo/). 
