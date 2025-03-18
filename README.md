@@ -69,6 +69,7 @@ Please visit the [wiki](https://github.com/RegnerM2015/scBreast_scRNA_scATAC_202
 35. scripts/Table_1_S1.sh
 36. scripts/Supplemental_Tables-P2Gs-updated.sh
 37. \*scripts/Supplemental_Tables-barcode_metadata.sh
+    
     \*Please find updated version of [Table S2](https://github.com/RegnerM2015/scBreast_scRNA_scATAC_2024/blob/main/miscellaneous/Table_S2_scRNA_barcode_metadata-updated.xlsx) (scRNA barcode metadata) in the miscellaneous folder.
 
 ### Docker container to help replicate the computational environment:
