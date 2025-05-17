@@ -4,9 +4,9 @@ Repository to store code used for the analyses presented in "Defining the Regula
 Please cite our paper published in Cell Genomics: https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00021-7
 
 ### Data availability:
-Processed data will be available at GEO (https://www.ncbi.nlm.nih.gov/geo/). 
+Processed data available at GEO (https://www.ncbi.nlm.nih.gov/geo/). 
 
-Raw data will be available with controlled access at dbGaP (https://www.ncbi.nlm.nih.gov/gap/).
+Raw data available with controlled access at dbGaP (https://www.ncbi.nlm.nih.gov/gap/).
 
 ### Repository format:
 The following bash scripts were run in this order to execute specific tasks under the each heading. More specifically, these are slurm scripts that either sourced external data or submitted an R script to run in a Docker container executed with Singularity in an HPC environment. 
